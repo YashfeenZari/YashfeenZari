@@ -96,16 +96,20 @@ Developed an interactive browser-based drum simulator using JavaScript.
 - Data Structures & Algorithms
 
 ---
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-![Snake animation](https://raw.githubusercontent.com/YashfeenZari/YashfeenZari/output/github-contribution-grid-snake.svg)
-## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashfeenZari&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashfeenZari&layout=compact" />
+</p>
 
-![Yashfeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashfeenZari&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YashfeenZari" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashfeenZari&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashfeenZari" />
+</p>
 
 ## 🎯 Goals
 
